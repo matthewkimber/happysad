@@ -10,3 +10,7 @@ a blue block. For multiples of five render the sad face
 image (`images/sad.png`) contained within a pink block. 
 For multiples of **three** _and_ **five** output both next 
 to the number.
+
+Output example:
+
+![Happy Sad output example.](doc/HappySadDemo.png)
